@@ -1,0 +1,10 @@
+Willpower,Amik Gurung,25,$10
+Harry Potter,JK Rowling,30,$2
+Start With Why,Simon Sinek,10,$1.5
+A Firm Kick,John Frusciante,15,$6
+Small Reprise,Freddie Mercury,20,$5
+Afno Katha,Sabin Rai,18,$4
+Wind Of Change,Scorpions,22,$7
+Dream On,Aerosmith,14,$6
+High Hopes,Pink Floyd,30,$8
+Free Falling,John Mayer,15,$7
